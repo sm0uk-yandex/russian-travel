@@ -6,7 +6,6 @@
 .footer {
   display: flex;
   align-items: center;
-  font-family: 'Inter', Arial, sans-serif;
   justify-content: space-between;
   padding: 22px 48px 24px;
 }
