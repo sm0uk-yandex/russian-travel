@@ -18,9 +18,15 @@
     margin: 88px 0 0;
   }
 }
+
 @media screen and (max-width: 600px) {
   .places {
-    padding: 0 16px;
     margin: 64px 0 0;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .places {
+    padding: 0;
   }
 }
